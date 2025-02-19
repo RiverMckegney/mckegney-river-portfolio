@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+About this site:
 
-```{r}
-1 + 1
-```
+How's it! My name is River, I am an undergraduate student at CSUMB majoring in Marine Science. I grew up here in Monterey all my life, and am stoked to have spent much of my time along the coast and in the water with my family. I enjoy surfing, diving, fishing, and exploring nature. I also got a garden and grow lots of sarracenia, yerba buena tea, and more!
