@@ -1,11 +1,32 @@
 ---
-title: "mckegney-river-portfolio"
+title: "River Mckegney"
+about: 
+   template: jolla
+   image: IMG_9595.JPG
+   links: 
+     - icon: github
+       text: Github
+       href: https://github.com/RiverMckegney
 ---
 
-This is a Quarto website.
+I'm an undergrad Marine Science (MSCI) major, into researching all about the majestics of underwater creatures and their environment. I also like growing plants!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Academics
 
-```{r}
-1 + 1
-```
+-   Monterey Peninsula College \| Monterey County, CA
+
+    Associates in Science: General Studies in Natural Science \| 2017-2023
+
+-   California State University Monterey Bay \| Marina, CA
+
+    B.S. in Marine Science \| 2023-Present
+
+## Experience
+
+I do dynamic services for property maintenance promoting health & well being of surrounding wild habitats/ecosystems and the land owners. I am involved in the regulation and moderating the interface between people's space and the wilderness' space to accomplish peoples dreams with intention to foster environmentally friendly and inclined judgement in the decision making process. I conduct projects involving fire clearance, processing firewood, tree pruning/removal, invasive species removal, and general landscaping work.
+
+-   Coastline Gardening Service, Carmel CA \| 2020-present
+
+I also like growing plants! I propagate many native species for fun, like Yerba buena which I also use to make tea with. My garden contains a growing collection of Sarracenia. Here's an S. *leucophylla:*
+
+![](IMG_8783.JPG)
